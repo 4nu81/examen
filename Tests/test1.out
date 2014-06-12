@@ -1,0 +1,23 @@
+# erster Test
+
+# kontrolle ob richtige Eingabe zum Erfolg führt.
+
+1 2 3 4 5 6
+Gewonnene Spiele Spieler1: 100.0%
+Verlorene Spiele Spieler1: 0.0%
+Beispiel eines von Spieler1 gewonnenen Spiels:
+Zug1 , Spieler1 : (1, 2, 3, 4, 5, 6) -> (0, 2, 3, 4, 5, 6)
+Zug2 , Spieler2 : (0, 2, 3, 4, 5, 6) -> (0, 2, 2, 4, 5, 6)
+Zug3 , Spieler1 : (0, 2, 2, 4, 5, 6) -> (0, 0, 2, 4, 5, 6)
+Zug4 , Spieler2 : (0, 0, 2, 4, 5, 6) -> (0, 0, 2, 4, 5, 0)
+Zug5 , Spieler1 : (0, 0, 2, 4, 5, 0) -> (0, 0, 0, 4, 5, 0)
+Zug6 , Spieler2 : (0, 0, 0, 4, 5, 0) -> (0, 0, 0, 4, 4, 0)
+Zug7 , Spieler1 : (0, 0, 0, 4, 4, 0) -> (0, 0, 0, 3, 4, 0)
+Zug8 , Spieler2 : (0, 0, 0, 3, 4, 0) -> (0, 0, 0, 3, 2, 0)
+Zug9 , Spieler1 : (0, 0, 0, 3, 2, 0) -> (0, 0, 0, 2, 2, 0)
+Zug10 , Spieler2 : (0, 0, 0, 2, 2, 0) -> (0, 0, 0, 1, 2, 0)
+Zug11 , Spieler1 : (0, 0, 0, 1, 2, 0) -> (0, 0, 0, 1, 1, 0)
+Zug12 , Spieler2 : (0, 0, 0, 1, 1, 0) -> (0, 0, 0, 0, 1, 0)
+Zug13 , Spieler1 : (0, 0, 0, 0, 1, 0) -> (0, 0, 0, 0, 0, 0)
+Beispiel eines von Spieler1 verlorenen Spiels:
+nicht vorhanden

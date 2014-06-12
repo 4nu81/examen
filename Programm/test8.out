@@ -1,0 +1,19 @@
+# achter Test
+
+# Spieler1 muss gewinnen
+
+1 1 1 1 1 1 1 1 1
+Gewonnene Spiele Spieler1: 100.0%
+Verlorene Spiele Spieler1: 0.0%
+Beispiel eines von Spieler1 gewonnenen Spiels:
+Zug1 , Spieler1 : (1, 1, 1, 1, 1, 1, 1, 1, 1) -> (0, 1, 1, 1, 1, 1, 1, 1, 1)
+Zug2 , Spieler2 : (0, 1, 1, 1, 1, 1, 1, 1, 1) -> (0, 1, 0, 1, 1, 1, 1, 1, 1)
+Zug3 , Spieler1 : (0, 1, 0, 1, 1, 1, 1, 1, 1) -> (0, 0, 0, 1, 1, 1, 1, 1, 1)
+Zug4 , Spieler2 : (0, 0, 0, 1, 1, 1, 1, 1, 1) -> (0, 0, 0, 1, 1, 1, 0, 1, 1)
+Zug5 , Spieler1 : (0, 0, 0, 1, 1, 1, 0, 1, 1) -> (0, 0, 0, 0, 1, 1, 0, 1, 1)
+Zug6 , Spieler2 : (0, 0, 0, 0, 1, 1, 0, 1, 1) -> (0, 0, 0, 0, 1, 1, 0, 1, 0)
+Zug7 , Spieler1 : (0, 0, 0, 0, 1, 1, 0, 1, 0) -> (0, 0, 0, 0, 0, 1, 0, 1, 0)
+Zug8 , Spieler2 : (0, 0, 0, 0, 0, 1, 0, 1, 0) -> (0, 0, 0, 0, 0, 0, 0, 1, 0)
+Zug9 , Spieler1 : (0, 0, 0, 0, 0, 0, 0, 1, 0) -> (0, 0, 0, 0, 0, 0, 0, 0, 0)
+Beispiel eines von Spieler1 verlorenen Spiels:
+nicht vorhanden

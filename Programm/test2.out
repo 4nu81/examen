@@ -1,0 +1,13 @@
+# zweiter Test
+
+# ein Trivialfall. Spieler 1 sollte 100% gewinnen.
+
+1 2
+Gewonnene Spiele Spieler1: 100.0%
+Verlorene Spiele Spieler1: 0.0%
+Beispiel eines von Spieler1 gewonnenen Spiels:
+Zug1 , Spieler1 : (1, 2) -> (1, 1)
+Zug2 , Spieler2 : (1, 1) -> (1, 0)
+Zug3 , Spieler1 : (1, 0) -> (0, 0)
+Beispiel eines von Spieler1 verlorenen Spiels:
+nicht vorhanden

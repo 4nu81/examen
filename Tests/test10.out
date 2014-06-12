@@ -1,0 +1,14 @@
+# neunter Test
+
+2 2
+Gewonnene Spiele Spieler1: 70.0%
+Verlorene Spiele Spieler1: 30.0%
+Beispiel eines von Spieler1 gewonnenen Spiels:
+Zug1 , Spieler1 : (2, 2) -> (1, 2)
+Zug2 , Spieler2 : (1, 2) -> (1, 0)
+Zug3 , Spieler1 : (1, 0) -> (0, 0)
+Beispiel eines von Spieler1 verlorenen Spiels:
+Zug1 , Spieler1 : (2, 2) -> (1, 2)
+Zug2 , Spieler2 : (1, 2) -> (1, 1)
+Zug3 , Spieler1 : (1, 1) -> (0, 1)
+Zug4 , Spieler2 : (0, 1) -> (0, 0)

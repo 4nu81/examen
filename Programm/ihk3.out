@@ -1,0 +1,13 @@
+# IHK Beispiel 3
+
+# hier gewinnt immer Spieler1
+
+2 3
+Gewonnene Spiele Spieler1: 100.0%
+Verlorene Spiele Spieler1: 0.0%
+Beispiel eines von Spieler1 gewonnenen Spiels:
+Zug1 , Spieler1 : (2, 3) -> (2, 2)
+Zug2 , Spieler2 : (2, 2) -> (0, 2)
+Zug3 , Spieler1 : (0, 2) -> (0, 0)
+Beispiel eines von Spieler1 verlorenen Spiels:
+nicht vorhanden
